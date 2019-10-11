@@ -1,8 +1,8 @@
 {
-  "name": "react-rmdb",
+  "name": "react-Movie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react-rmdb.firebaseapp.com/",
+  "homepage": "https://react-movie-5ede8.firebaseapp.com/",
   "dependencies": {
     "@loadable/component": "^5.7.0",
     "axios": "^0.18.0",
