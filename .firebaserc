@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-rmdb",
+    "movies": "react-movie-5ede8"
+  }
+}
